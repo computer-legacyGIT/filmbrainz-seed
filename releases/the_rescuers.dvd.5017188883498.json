@@ -1,0 +1,687 @@
+{
+    "packaging-attributes": {
+        "title": "The Rescuers",
+        "eti": "",
+        "format": {
+            "type": "DVD",
+            "detail": "DVD9"
+        },
+        "packaging": {
+            "format": "DVD Keep Case",
+            "notes": "Disney DVD blue keep-case, with Disney DVD logo embossed above disc tray. Sleeve features a holographic sticker for authenticity."
+        },
+        "label": "Disney DVD",
+        "companies": [
+            {
+                "name": "Copyright Holder",
+                "role": "Disney",
+                "date": ""
+            },
+            {
+                "name": "Manufacturer",
+                "role": "Technicolor",
+                "date": ""
+            }
+            
+        ],
+        "gtin": "5017188883498",
+        "identifiers": [
+            {
+                "property": "Part Number",
+                "value": "D888349",
+                "comment": "Sleeve, Rear"
+            },
+            {
+                "property": "Part Number",
+                "value": "Z1 D888349",
+                "comment": "Sleeve, Spine"
+            },
+            {
+                "property": "BBFC Reference",
+                "value": "VFC 30272",
+                "comment": "Disc label"
+            }
+        ],
+        "language": {
+            "name": "English",
+            "script": "Latin"
+        },
+        "release": {
+            "territory": "United Kingdom",
+            "region": "2"
+        },
+        "classification": [
+            {
+                "board": "BBFC",
+                "value": "U",
+                "comment": ""
+            }
+        ],
+        "annotation": ""
+    },
+    "title-detail":{
+        "titles": [
+            {
+                "play-order": 1,
+                "index": "",                
+                "description":"Language Select Menu",
+                "duration": "00:00:00",
+                "color-mode": "color",
+                "aspect-ratio": "1.66:1",
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:00:00",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "none",
+                        "codec": "",
+                        "channels": "",
+                        "bitrate": ""
+                    }
+                ],
+                "subtitle": [
+                    {
+                        "index": 1,
+                        "language": "",
+                        "style": "",
+                        "comment": ""
+                    }
+                ],
+                "comment": "Two on-screen options between English or Spanish"
+
+            },
+            {
+                "play-order": 2,
+                "index": 2,                
+                "description":"Walt Disney Home Entertainment Ident",
+                "duration": "00:00:07",
+                "color-mode": "color",
+                "aspect-ratio": "1.66:1",
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "5.1",
+                        "bitrate": "384 kbps"
+                    }
+                ],
+                "subtitle": [
+                    {
+                        "index": 1,
+                        "language": "",
+                        "style": "",
+                        "comment": ""
+                    }
+                ],
+                "comment": ""
+            },
+            {
+                "play-order": 3,
+                "index": 18,                
+                "description":"Pre-feature promotional reel",
+                "duration": "00:07:30",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:00:07",
+                        "comment": "On Video & DVD title card"
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:01:40",
+                        "comment": "Disney 100 Years of Magic showreel"
+                    },
+                    {
+                        "index": 3,
+                        "duration": "00:01:23",
+                        "comment": "The Emperor's New Groove trailer"
+                    },
+                    {
+                        "index": 4,
+                        "duration": "00:00:55",
+                        "comment": "Snow White and The Seven Dwarfs VHS and DVD release trailer"
+                    },
+                    {
+                        "index": 5,
+                        "duration": "00:01:58",
+                        "comment": "Dinosaur VHS and DVD release trailer"
+                    },
+                    {
+                        "index": 6,
+                        "duration": "00:01:27",
+                        "comment": "The Hunchback of Notre Dame II"
+                    },
+                    {
+                        "index": 7,
+                        "duration": "00:00:01",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    },
+                    {
+                        "index": 2,
+                        "language": "spanish",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    }
+                ],
+                "subtitle": [
+                    {
+                        "index": 1,
+                        "language": "",
+                        "style": "",
+                        "comment": ""
+                    }
+                ],
+                "comment": "English voice-over is by an uncredited Male with a strong British accent."
+            },
+            {
+                "play-order": 4,
+                "index": 0,                
+                "description":"Main Menu",
+                "duration": "00:00:00",
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "5.1",
+                        "bitrate": ""
+                    }
+                ],
+                "subtitle": [
+                    {
+                        "index": 1,
+                        "language": "",
+                        "style": "",
+                        "comment": ""
+                    }
+                ],
+                "comment": "English main menu with basic animation and sound effects."
+            },
+            {
+                "play-order": 4,
+                "index": 0,                
+                "description":"Main Menu",
+                "duration": "00:00:00",
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "5.1",
+                        "bitrate": ""
+                    }
+                ],
+                "subtitle": [
+                    {
+                        "index": 1,
+                        "language": "",
+                        "style": "",
+                        "comment": ""
+                    }
+                ],
+                "comment": "Spanish main menu with basic animation and sound effects."
+            },
+            {
+                "play-order": 5,
+                "index": 5,                
+                "description":"Copyright Warning - English",
+                "duration": "00:00:06",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:00:05",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:00:01",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [{
+
+                }
+                ],
+                "subtitle": [
+                    {
+                        "index": 1,
+                        "language": "",
+                        "style": "",
+                        "comment": ""
+                    }
+                ],
+                "comment": "Standard issue Disney copyright warning message in English."
+            },
+            {
+                "play-order": 6,
+                "index": 3,                
+                "description":"Disney DVD 'Tinkerbell' ident",
+                "duration": "00:00:16",
+                "color-mode": "color",
+                "aspect-ratio": "1.66:1",                
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:00:16",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:00:00",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "5.1",
+                        "bitrate": ""
+                    }
+                ],
+                "subtitle": [
+                    {
+                        "index": 1,
+                        "language": "",
+                        "style": "",
+                        "comment": ""
+                    }
+                ],
+                "comment": "Animated ident with Tinkerbell and the Disney DVD logo."
+            },
+            {
+                "play-order": 7,
+                "index": 1,                
+                "description":"Main Feature - The Rescuers",
+                "duration": "01:14:02",
+                "color-mode": "color",
+                "aspect-ratio": "1.66:1",
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:04:06",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:06:52",
+                        "comment": ""
+                    },
+                    {
+                        "index": 3,
+                        "duration": "00:02:32",
+                        "comment": ""
+                    },
+                    {
+                        "index": 4,
+                        "duration": "00:05:31",
+                        "comment": ""
+                    },
+                    {
+                        "index": 5,
+                        "duration": "00:03:56",
+                        "comment": ""
+                    },
+                    {
+                        "index": 6,
+                        "duration": "00:05:27",
+                        "comment": ""
+                    },
+                    {
+                        "index": 7,
+                        "duration": "00:02:51",
+                        "comment": ""
+                    },
+                    {
+                        "index": 8,
+                        "duration": "00:05:13",
+                        "comment": ""
+                    },
+                    {
+                        "index": 9,
+                        "duration": "00:03:59",
+                        "comment": ""
+                    },
+                    {
+                        "index": 10,
+                        "duration": "00:09:59",
+                        "comment": ""
+                    },
+                    {
+                        "index": 11,
+                        "duration": "00:02:38",
+                        "comment": ""
+                    },
+                    {
+                        "index": 12,
+                        "duration": "00:04:44",
+                        "comment": ""
+                    },
+                    {
+                        "index": 13,
+                        "duration": "00:07:36",
+                        "comment": ""
+                    },
+                    {
+                        "index": 14,
+                        "duration": "00:06:56",
+                        "comment": ""
+                    },
+                    {
+                        "index": 15,
+                        "duration": "00:01:17",
+                        "comment": ""
+                    },
+                    {
+                        "index": 16,
+                        "duration": "00:00:25",
+                        "comment": ""
+                    },
+                    {
+                        "index": 17,
+                        "duration": "00:00:01",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "5.1",
+                        "bitrate": "384 kbps",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "language": "spanish",
+                        "codec": "AC3",
+                        "channels": "5.1",
+                        "bitrate": "384 kbps",
+                        "comment": ""
+                    },
+                    {
+                        "index": 3,
+                        "language": "portuguese",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps",
+                        "comment": ""
+                    },
+                    {
+                        "index": 4,
+                        "language": "hebrew",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps",
+                        "comment": ""
+                    },
+                    {
+                        "index": 5,
+                        "language": "greek",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps",
+                        "comment": ""
+                    },
+                    {
+                        "index": 6,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps",
+                        "comment": "audio description"
+                    }                    
+                ],
+                "subtitle": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "style": "toggle",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "language": "spanish",
+                        "style": "toggle",
+                        "comment": ""
+                    },
+                    {
+                        "index": 3,
+                        "language": "portuguese",
+                        "style": "toggle",
+                        "comment": ""
+                    },
+                    {
+                        "index": 4,
+                        "language": "english",
+                        "style": "toggle",
+                        "comment": "for the hearing impaired"
+                    }
+                ],
+                "comment": ""
+            },
+            {
+                "play-order": 8,
+                "index": 29,                
+                "description":"Bonus Feature - Water Birds a Walt Disney True Life Adventure Featurette",
+                "duration": "00:26:26",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",                
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:29:26",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:00:00",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    }
+                ],
+                "subtitle": [
+                    {
+                        "index": 1,
+                        "language": "Spanish",
+                        "style": "toggle",
+                        "comment": ""
+                    }
+                ],
+                "comment": ""
+            },
+            {
+                "play-order": 9,
+                "index": 30,                
+                "description":"Bonus Feature - Three Blind Mouseketeers Animated Short",
+                "duration": "00:08:24",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",                
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:08:24",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:00:00",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    },
+                    {
+                        "index": 2,
+                        "language": "spanish",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    }                    
+                ],
+                "subtitle": [
+                    {
+                    }
+                ],
+                "comment": ""
+            },
+            {
+                "play-order": 10,
+                "index": 29,                
+                "description":"Bonus Feature - Someone's Waiting for You Sing-Along Song",
+                "duration": "00:02:21",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",                
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:02:21",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:00:00",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    }               
+                ],
+                "subtitle": [
+                    {
+                    }
+                ],
+                "comment": ""
+            }            
+        ]
+    }
+}
