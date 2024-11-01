@@ -681,7 +681,340 @@
                     }
                 ],
                 "comment": ""
-            }            
+            },
+            {
+                "play-order": 11,
+                "index": 24,                
+                "description":"Bonus Feature - Under the Hat Villains",
+                "duration": "00:01:30",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",                
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:01:30",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:00:00",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    },
+                    {
+                        "index": 2,
+                        "language": "spanish",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    }                    
+                ],
+                "subtitle": [
+                    {
+                    }
+                ],
+                "comment": "A segment lifted from Toon Disney featuring Beau"
+            },
+            {
+                "play-order": 12,
+                "index": 0,                
+                "description":"Bonus Feature - The Rescuers Scrapbook",
+                "duration": "00:00:00",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",                
+                "chapters": [
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                ],
+                "subtitle": [
+                    {
+                    }
+                ],
+                "comment": "Interactive slideshow"
+            },
+            {
+                "play-order": 13,
+                "index": 0,                
+                "description":"Bonus Feature - The Ultimate Case Game",
+                "duration": "00:00:00",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",                
+                "chapters": [
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                ],
+                "subtitle": [
+                    {
+                    }
+                ],
+                "comment": "Interactive game with audio"
+            },
+            
+            {
+                "play-order": 13,
+                "index": 19,                
+                "description":"Sneak Peeks - 100 Years of Magic",
+                "duration": "00:01:37",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",                
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:01:37",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:00:00",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    },
+                    {
+                        "index": 2,
+                        "language": "spanish",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    }               
+                ],
+                "subtitle": [
+                    {
+                    }
+                ],
+                "comment": "This is the same clip that is featured in the pre-feature segment, title #18"
+            },
+            {
+                "play-order": 14,
+                "index": 20,                
+                "description":"Sneak Peeks - The Emperor's New Groove",
+                "duration": "00:01:20",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",                
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:01:20",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:00:00",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    },
+                    {
+                        "index": 2,
+                        "language": "spanish",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    }               
+                ],
+                "subtitle": [
+                    {
+                    }
+                ],
+                "comment": "This is the same clip that is featured in the pre-feature segment, title #18"
+            },
+            {
+                "play-order": 15,
+                "index": 21,                
+                "description":"Sneak Peeks - Snow White and the Seven Dwarves",
+                "duration": "00:00:52",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",                
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:00:52",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:00:00",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    },
+                    {
+                        "index": 2,
+                        "language": "spanish",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    }               
+                ],
+                "subtitle": [
+                    {
+                    }
+                ],
+                "comment": "This is the same clip that is featured in the pre-feature segment, title #18"
+            },
+            {
+                "play-order": 16,
+                "index": 22,                
+                "description":"Sneak Peeks - Dinosaur",
+                "duration": "00:01:55",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",                
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:01:55",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:00:00",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    },
+                    {
+                        "index": 2,
+                        "language": "spanish",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    }               
+                ],
+                "subtitle": [
+                    {
+                    }
+                ],
+                "comment": "This is the same clip that is featured in the pre-feature segment, title #18"
+            },
+            {
+                "play-order": 18,
+                "index": 20,                
+                "description":"Sneak Peeks - The Hunchback of Nortre Dame II",
+                "duration": "00:01:24",
+                "color-mode": "color",
+                "aspect-ratio": "4:3",                
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:01:24",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:00:00",
+                        "comment": ""
+                    }
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                    {
+                        "index": 1,
+                        "language": "english",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    },
+                    {
+                        "index": 2,
+                        "language": "spanish",
+                        "codec": "AC3",
+                        "channels": "2.0",
+                        "bitrate": "192 kbps"
+                    }               
+                ],
+                "subtitle": [
+                    {
+                    }
+                ],
+                "comment": "This is the same clip that is featured in the pre-feature segment, title #18"
+            }
         ]
+    },
+    "item-notes":
+    {
+        "entry-notes": "This is a typical multi-lingual DVD from Disney. I have tried to work out the sequencing of the content featured within with this release, but am unsure if this will be something we stick with for other titles in this project. There are a fair number of titles missing from the tracklist, which mostly consist of copyright notices in different langauges + credit sequences in different languages."
     }
 }
