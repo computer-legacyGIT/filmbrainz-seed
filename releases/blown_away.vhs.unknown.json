@@ -1,0 +1,71 @@
+{
+    "packaging-attributes": {
+        "title": "Blown Away",
+        "eti": "",
+        "format": {
+            "type": "VHS",
+            "detail": "Standard"
+        },
+        "packaging": {
+            "format": "VHS Oversized Clamshell",
+            "notes": "Oversized clear clamshell, possibly inteded for the rental market."
+        },
+        "label": "MGM/UA Home Video",
+        "companies": [
+            {
+                "name": "Distributor",
+                "role": "Warner Home Video (UK) Ltd.",
+                "date": ""
+            },
+            {
+                "name": "Content Copyright Holder",
+                "role": "Meto-Goldwyn-Mayer Inc.",
+                "date": "1994"
+            },
+            {
+                "name": "Packaging Copyright Holder",
+                "role": "MGM/UA Home Entertainment Inc.",
+                "date": "1994"
+            }
+        ],
+        "gtin": "",
+        "identifiers": [
+            {
+                "property": "Part Number",
+                "value": "VO54807",
+                "comment": "Sleeve, Spine"
+            },
+            {
+                "property": "Part Number",
+                "value": "S0 54807",
+                "comment": "VHS Tape"
+            },
+            {
+                "property": "BBFC Reference",
+                "value": "VFB 04068",
+                "comment": "VHS Tape"
+            }
+        ],
+        "language": {
+            "name": "English",
+            "script": "Latin"
+        },
+        "release": {
+            "territory": "United Kingdom",
+            "region": "NA"
+        },
+        "classification": [
+            {
+                "board": "BBFC",
+                "value": "15",
+                "comment": ""
+            }
+        ],
+        "annotation": "My copy is packaged in a clear clamshell, however the sleeve is single-sided so this is not a requirement."
+    },
+    "title-detail":{},
+    "item-notes":
+    {
+        "entry-notes": "Needs title detail working on, also my reference copy has the barcode hidden by a sticker."
+    }
+}
