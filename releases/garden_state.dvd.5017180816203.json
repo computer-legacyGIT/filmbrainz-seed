@@ -1,0 +1,96 @@
+{
+    "packaging-attributes": {
+        "title": "Garden State",
+        "eti": "",
+        "format": {
+            "type": "DVD",
+            "detail": "DVD9"
+        },
+        "packaging": {
+            "format": "DVD Keep case",
+            "notes": "Standard DVD keep case."
+        },
+        "label": "Buena Vista Home Entertainment",
+        "companies": [
+            {
+                "name": "Packaging Copyright Holder",
+                "role": "Buena Vista Home Entertainment, Inc.",
+                "date": ""
+            }
+        ],
+        "gtin": "5017180816203",
+        "identifiers": [
+            {
+                "property": "Part Number",
+                "value": "Z9A BEE881620",
+                "comment": "Sleeve, Spine"
+            },
+            {
+                "property": "Part Number",
+                "value": "BEE881620",
+                "comment": "Sleeve, Back"
+            },
+            {
+                "property": "BBFC Reference",
+                "value": "X",
+                "comment": "DVD label"
+            }
+        ],
+        "language": {
+            "name": "English",
+            "script": "Latin"
+        },
+        "release": {
+            "territory": "United Kingdom",
+            "region": "NA"
+        },
+        "classification": [
+            {
+                "board": "BBFC",
+                "value": "18",
+                "comment": ""
+            }
+        ],
+        "annotation": ""
+    },
+    "title-detail":{
+            "titles": [
+            {
+                "play-order": 1,
+                "index": "3",                
+                "description":"Miramax Home Entertainment Ident",
+                "duration": "00:00:16",
+                "color-mode": "color",
+                "aspect-ratio": "2.35:1",
+                "chapters": [
+                    {
+                        "index": 1,
+                        "duration": "00:00:16",
+                        "comment": ""
+                    },
+                    {
+                        "index": 2,
+                        "duration": "00:00:00",
+                        "comment": ""
+                    }
+                    
+                ],
+                "angle": [
+                    {
+                        "index": 1,
+                        "comment": "main"
+                    }
+                ],
+                "audio": [
+                ],
+                "subtitle": [
+                ],
+                "comment": "Title is completely silent"
+            }
+        ]
+    },
+    "item-notes":
+    {
+        "entry-notes": "Needs title detail working on"
+    }
+}
