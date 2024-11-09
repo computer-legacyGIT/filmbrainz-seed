@@ -1,0 +1,91 @@
+{
+    "packaging-attributes": {
+        "title": "Orange County",
+        "eti": "Widescreen Collection",
+        "format": {
+            "type": "DVD",
+            "detail": "DVD9"
+        },
+        "packaging": {
+            "format": "DVD Keep case",
+            "notes": "Orange coloured DVD keep case."
+        },
+        "label": "Paramount DVD",
+        "companies": [
+            {
+                "name": "Packaging Copyright Holder",
+                "role": "Paramount Pictures",
+                "date": "2003"
+            },
+            {
+                "name": "Content Copyright Holder",
+                "role": "Paramount Pictures",
+                "date": "2002"
+            },
+            {
+                "name": "Distributor",
+                "role": "Paramount Home Entertainment (UK)",
+                "date": ""
+            }
+        ],
+        "gtin": "5014437820334",
+        "identifiers": [
+            {
+                "property": "Part Number",
+                "value": "PHE 8203",
+                "comment": "Sleeve, Spine"
+            },
+            {
+                "property": "Part Number",
+                "value": "EN2 109001",
+                "comment": "Disc, Label"
+            },
+            {
+                "property": "BBFC Reference",
+                "value": "VFC 35135",
+                "comment": "DVD label"
+            }
+        ],
+        "language": {
+            "name": "English",
+            "script": "Latin"
+        },
+        "release": {
+            "territory": "United Kingdom",
+            "region": "NA"
+        },
+        "classification": [
+            {
+                "board": "BBFC",
+                "value": "12",
+                "comment": ""
+            },
+            {
+                "board": "IFO",
+                "value": "12",
+                "comment": ""
+            },
+            {
+                "board": "German",
+                "value": "12",
+                "comment": ""
+            },
+            {
+                "board": "Unknown MG?",
+                "value": "6",
+                "comment": ""
+            }            
+        ],
+        "annotation": "Includes a double-sided sheet with chapter information"
+    },
+    "title-detail":{
+            "titles": [
+            {
+            }
+        ]
+    },
+    "item-notes":
+    {
+        "entry-notes": "Needs title detail working on"
+    }
+}
