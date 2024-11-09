@@ -1,0 +1,76 @@
+{
+    "packaging-attributes": {
+        "title": "Mr. Deeds",
+        "eti": "",
+        "format": {
+            "type": "DVD",
+            "detail": "DVD9"
+        },
+        "packaging": {
+            "format": "DVD Keep case",
+            "notes": "Standard DVD keep case."
+        },
+        "label": "Columbia Tristar Home Entertainment",
+        "companies": [
+            {
+                "name": "Packaging Copyright Holder",
+                "role": "Sony Pictures Home Entertainment Inc.",
+                "date": "2005"
+            },
+            {
+                "name": "Content Copyright Holder",
+                "role": "Columbia Pictures Industries, Inc.",
+                "date": "2002"
+            },
+            {
+                "name": "Distributor",
+                "role": "Sony Pictures Home Entertainment (as www.sphe.co.uk)",
+                "date": ""
+            }
+        ],
+        "gtin": "5050582371710",
+        "identifiers": [
+            {
+                "property": "Part Number",
+                "value": "C823 7171",
+                "comment": "Sleeve, Spine"
+            },
+            {
+                "property": "BBFC Reference",
+                "value": "X",
+                "comment": "DVD label"
+            }
+        ],
+        "language": {
+            "name": "English",
+            "script": "Latin"
+        },
+        "release": {
+            "territory": "United Kingdom",
+            "region": "NA"
+        },
+        "classification": [
+            {
+                "board": "BBFC",
+                "value": "12",
+                "comment": ""
+            },
+            {
+                "board": "IFO",
+                "value": "12",
+                "comment": ""
+            }            
+        ],
+        "annotation": ""
+    },
+    "title-detail":{
+            "titles": [
+            {
+            }
+        ]
+    },
+    "item-notes":
+    {
+        "entry-notes": "Needs title detail working on"
+    }
+}
