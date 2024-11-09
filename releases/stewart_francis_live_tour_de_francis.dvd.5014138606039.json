@@ -1,0 +1,76 @@
+{
+    "packaging-attributes": {
+        "title": "Stewart Francis Live - Tour de Francis",
+        "eti": "",
+        "format": {
+            "type": "DVD",
+            "detail": "DVD5"
+        },
+        "packaging": {
+            "format": "DVD Keep case",
+            "notes": "Standard DVD keep case."
+        },
+        "label": "2 Entertain",
+        "companies": [
+            {
+                "name": "Packaging Copyright Holder",
+                "role": "2 Entertain Video Ltd",
+                "date": "2010"
+            },
+            {
+                "name": "Copyright Holder",
+                "role": "2 Entertain Video Ltd",
+                "date": "2010"
+            },
+            {
+                "name": "Distributor",
+                "role": "2 Entertain Video Ltd",
+                "date": ""
+            }
+        ],
+        "gtin": "5014138606039",
+        "identifiers": [
+            {
+                "property": "Part Number",
+                "value": "2EDVD0603",
+                "comment": "Sleeve, Spine"
+            },
+            {
+                "property": "Part Number",
+                "value": "2EDVD0603",
+                "comment": "Disc label"
+            },
+            {
+                "property": "BBFC Reference",
+                "value": "VFD48812",
+                "comment": "DVD label"
+            }
+        ],
+        "language": {
+            "name": "English",
+            "script": "Latin"
+        },
+        "release": {
+            "territory": "United Kingdom",
+            "region": "NA"
+        },
+        "classification": [
+            {
+                "board": "BBFC",
+                "value": "15",
+                "comment": ""
+            }
+        ],
+        "annotation": ""
+    },
+    "title-detail":{
+            "titles": [
+            {
+            }
+        ]
+    },
+    "item-notes":
+    {
+        "entry-notes": "Needs title detail working on"
+    }
+}
